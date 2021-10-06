@@ -8,7 +8,7 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: ' Bí à!',
+    introTitle: ' Bí ơi!',
     introDesc: `Rose is red.
     Violet is blue. 
     I just wanna ask.
