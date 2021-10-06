@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: ' Bí à!',
+    introTitle: ' Bí ơi!',
     introDesc: `Rose is red.
     Violet is blue. 
     I just wanna ask.
